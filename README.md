@@ -8,6 +8,9 @@ If you want to make your own, you can use the following ffmpeg command to split 
    ```ffmpeg -i your_mp3.mp3 -f segment -segment_time 7.8 -c copy %01d.mp3```
    
   Note that i put it 7.8 seconds so it can be under the limit without any problems
+  
+  [Click here to download the project file ](https://github.com/shervain123/Rickroll_Mindstorms/releases/download/Ev3/Rick_Roll.ev3)or go to the [release](https://github.com/shervain123/Rickroll_Mindstorms/releases/) page to download it
+
 
 I might later add for NXT and maybe RCX
 so 
